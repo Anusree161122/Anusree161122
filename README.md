@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm yelugoti ANUSREE</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://www.freepik.com/free-vector/programmer-working-desk_5614133.htm#fromView=search&page=1&position=33&uuid=85e07333-3f59-4ceb-be12-8f57f78e961b&query=Girl+Programmer+gifs" height=300 width=300>
+<img align="right"  width="300" src="https://www.freepik.com/free-vector/programmer-working-desk_5614133.htm#fromView=search&page=1&position=33&uuid=85e07333-3f59-4ceb-be12-8f57f78e961b&query=Girl+Programmer+gifs" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
